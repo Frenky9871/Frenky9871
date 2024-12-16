@@ -10,3 +10,5 @@ curl -sSL "https://mempool.space/api/v1/prices"
   AUD: 64499,
   JPY: 6218915
 }
+
+{"prices":[{"time":1499904000,"EUR":1964,"USD":2254.9}],"exchangeRates":{"USDEUR":0.95,"USDGBP":0.79,"USDCAD":1.41,"USDCHF":0.89,"USDAUD":1.57,"USDJPY":154.2}}
